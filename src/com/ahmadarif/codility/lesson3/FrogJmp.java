@@ -8,7 +8,7 @@ package com.ahmadarif.codility.lesson3;
  jumps that the small frog must perform to reach its target.
 
  Write a function:
-        class Solution { public int solution(int X, int Y, int D); }
+        class Solution { public int solution2(int X, int Y, int D); }
  that, given three integers X, Y and D, returns the minimal number of jumps from position X to a position equal to or greater than Y.
 
  For example, given:

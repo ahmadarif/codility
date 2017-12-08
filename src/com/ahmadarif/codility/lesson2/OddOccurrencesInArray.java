@@ -19,7 +19,7 @@ import java.util.ArrayList;
  - the element at index 5 has value 7 and is unpaired.
 
  Write a function:
-        class Solution { public int solution(int[] A); }
+        class Solution { public int solution2(int[] A); }
  that, given an array A consisting of N integers fulfilling the above conditions, returns the value of the unpaired
  element.
 

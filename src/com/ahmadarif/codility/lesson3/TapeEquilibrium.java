@@ -28,7 +28,7 @@ package com.ahmadarif.codility.lesson3;
  P = 4, difference = |10 − 3| = 7
 
  Write a function:
-        class Solution { public int solution(int[] A); }
+        class Solution { public int solution2(int[] A); }
  that, given a non-empty zero-indexed array A of N integers, returns the minimal difference that can be achieved.
 
  For example, given:

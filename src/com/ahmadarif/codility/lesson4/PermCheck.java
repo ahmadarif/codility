@@ -23,7 +23,7 @@ package com.ahmadarif.codility.lesson4;
  The goal is to check whether array A is a permutation.
 
  Write a function:
-        class Solution { public int solution(int[] A); }
+        class Solution { public int solution2(int[] A); }
  that, given a zero-indexed array A, returns 1 if array A is a permutation and 0 if it is not.
 
  For example, given array A such that:

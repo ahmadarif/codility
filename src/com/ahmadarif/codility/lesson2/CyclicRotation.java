@@ -13,7 +13,7 @@ import java.util.Arrays;
  The goal is to rotate array A K times; that is, each element of A will be shifted to the right K times.
 
  Write a function:
-        class Solution { public int[] solution(int[] A, int K); }
+        class Solution { public int[] solution2(int[] A, int K); }
  that, given a zero-indexed array A consisting of N integers and an integer K, returns the array A rotated K times.
 
  For example, given
@@ -40,7 +40,7 @@ import java.util.Arrays;
  - N and K are integers within the range [0..100];
  - each element of array A is an integer within the range [−1,000..1,000].
 
- In your solution, focus on correctness. The performance of your solution will not be the focus of the assessment.
+ In your solution2, focus on correctness. The performance of your solution2 will not be the focus of the assessment.
  */
 public class CyclicRotation {
 

@@ -9,7 +9,7 @@ package com.ahmadarif.codility.lesson3;
  Your goal is to find that missing element.
 
  Write a function:
-        class Solution { public int solution(int[] A); }
+        class Solution { public int solution2(int[] A); }
  that, given a zero-indexed array A, returns the value of the missing element.
 
  For example, given array A such that:
